@@ -1,5 +1,2 @@
 @import url(global.css);
-profileimg {
-  width: 176px;
-  height: 176px;
-}
+@import url(nav.css);
