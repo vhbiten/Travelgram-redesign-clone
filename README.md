@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Canva
 
-- [Acesse o projeto finalizado, online](https://vhbiten.github.io/Travelgram-redesign-clone/)
+- [Acesse o projeto finalizado online!](https://vhbiten.github.io/Travelgram-redesign-clone/)
